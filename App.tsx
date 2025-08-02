@@ -155,7 +155,7 @@ const cardContent3 = (
       The proof that excellence isn't just taught — it's lived.
     </p>
     <p className="mt-6 text-right w-full">
-      — Rishi
+      — SMIT
       <br/>
       <span className="text-sm opacity-70">(not just the founder of Aveon AI India,</span>
       <br/>
@@ -329,7 +329,7 @@ const App: React.FC = () => {
         <footer className="w-full text-center py-4">
           <div className="flex items-center justify-center space-x-2 text-sm text-slate-400">
             <p className="animate-pulse">
-              Built by Rishi — the boy who usually builds AI, but this time… just wanted ma'am to be proud 🥹💻💗
+              Built by Smit — the boy who usually builds AI, but this time… just wanted ma'am to be proud 🥹💻💗
             </p>
             <HeartIcon className="h-4 w-4 text-pink-400" />
             <button 
