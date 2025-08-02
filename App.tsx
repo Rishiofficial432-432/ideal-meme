@@ -12,7 +12,7 @@ import { MusicPlayer } from './components/MusicPlayer';
 const cardContent1 = (
   <>
     <p className="mb-4">
-      Your presence commands respect, but not through fear —
+      Your presence commands respect, but not through fear 
       Through the way you carry yourself with such elegance and grace.
       The moment you walk in, backs straighten, not from obligation,
       but from inspiration. Your aura doesn't demand attention;
@@ -25,7 +25,7 @@ const cardContent1 = (
       You've mastered the art of being both approachable and admirable.
     </p>
     <p>
-      When you speak, we listen —
+      When you speak, we listen 
       not because we have to,
       but because we want to catch every pearl of wisdom
       that falls from your words... ✨
@@ -63,7 +63,7 @@ const cardContent2 = (
       <br />
       The way you break down communication barriers?
       <br />
-      That's not just teaching — that's <em className="italic">architectural brilliance</em> 🏛️✨
+      That's not just teaching  that's <em className="italic">architectural brilliance</em> 🏛️✨
     </p>
     <p className="mb-4">
       I've seen professionals stumble over their words in meetings
@@ -115,7 +115,7 @@ const cardContent3 = (
       How to speak softly yet move mountains. 🗣️✨
     </p>
     <p className="mb-4">
-      In every session, you weren't just teaching —
+      In every session, you weren't just teaching 
       <br />
       You were architecting confidence,
       <br />
@@ -124,9 +124,9 @@ const cardContent3 = (
       Making eloquence feel like second nature. 🌉💫
     </p>
     <p className="mb-4">
-      And now I'm here —
+      And now I'm here 
       <br />
-      a pookie with too much admiration
+      a pookie🎀🎀 with too much admiration🥰🥰
       <br />
       and no idea how to process all this influence 🥺🫠
       <br />
